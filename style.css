@@ -1,0 +1,31 @@
+html {
+    scroll-behavior: smooth;
+}
+
+.butt {
+    transition: all 1s;
+}
+
+.butt1:hover {
+    transform: scale(1.1);
+}
+
+.cfimg {
+    transition: all 1s;
+}
+
+.cfhover:hover {
+    transform: scale(1.1);
+}
+
+.footlinks {
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: center;
+}
+
+.mylink {
+    width: 50px;
+    height: auto;
+    margin: 0px;
+}
