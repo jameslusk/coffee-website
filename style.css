@@ -28,4 +28,9 @@ html {
     width: 50px;
     height: auto;
     margin: 0px;
+    transition: all 1s;
+}
+
+.mylink:hover {
+    transform: scale(1.1);
 }
